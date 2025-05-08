@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159018816059",
+    "project_id": "Ecommerceseller",
+    "storage_bucket": "Ecommerceseller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159018816059:android:f0379eb2b2d1b5dd41421e",
+        "android_client_info": {
+          "package_name": "com.the.Ecommerceseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159018816059-m00mjqi1u568dqhk1ffcsg19b3vd65j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Ylw8M3BnEIGYEWM0c05Z2B2JqSoWjYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159018816059-m00mjqi1u568dqhk1ffcsg19b3vd65j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

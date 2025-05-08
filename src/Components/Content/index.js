@@ -1,0 +1,9 @@
+export { default as Profile } from './profile';
+export { default as EditProfile } from './edit-profile';
+export { default as Products } from './manage-products';
+export { default as ProductDetails } from './products-details';
+export { default as GroupProducts } from './manage-group-products';
+export { default as GroupProductDetails } from './group-product-details';
+export { default as Orders } from './manage-orders';
+export { default as OrderDetails } from './order-details';
+export { default as ChangePassword } from './change-password';

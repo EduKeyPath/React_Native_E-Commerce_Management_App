@@ -1,0 +1,5 @@
+export const dashboard   =   {
+    GET_DASHBOARD          :   'GET_DASHBOARD',
+    GET_DASHBOARD_SUCCESS  :   'GET_DASHBOARD_SUCCESS',
+    GET_DASHBOARD_ERROR    :   'GET_DASHBOARD_ERROR'
+}
